@@ -1,7 +1,7 @@
 **MARKET POTENTIAL**
 
 In 2023, Company N wanted to start importing used cars into Russia for the purpose of selling them. My task was to understand which market is most favourable for purchases.
-From open sources, I have obtained data on car sales in India. I needed to analyse it to understand how this market is structured, how it is structured and how prices are distributed. 
+From open sources, I have obtained data on car sales in India. I needed to analyse it in order to understand how this market is structured and how prices are distributed. 
 This would help in deciding whether to enter this market or not.
 
 The company had a restriction on importing cars older than 6 years. 
